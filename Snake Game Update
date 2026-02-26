@@ -1,0 +1,18 @@
+# 🐍 Snake Game (Java Swing)
+
+## 📌 Project Description
+A GUI-based Snake Game developed using Java Swing.
+The game includes keyboard controls, food generation, collision detection, and game over logic.
+
+## 🚀 Features
+- Snake movement using arrow keys
+- Random food generation
+- Collision detection (wall & self)
+- Game over screen
+- Timer-based game loop
+
+## 🛠 Technologies Used
+- Core Java
+- Java Swing
+- OOP Concepts
+- Event Handling
